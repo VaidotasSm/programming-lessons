@@ -21,7 +21,7 @@
 
 ## Create/Edit config file
 
-Location: `C:\Users\XXX\.gitconfig`
+Location: `C:\Users\XXX\.gitconfig` (Windows)
 
 ```
 [user]
@@ -35,7 +35,7 @@ Location: `C:\Users\XXX\.gitconfig`
 
 # Git Usage
 
-## Clone Branch (download files)
+## Start working - remote repository (from server)
 
 * Clone - download repository. Will create new folder.
 
@@ -44,6 +44,10 @@ Location: `C:\Users\XXX\.gitconfig`
 * Pull - download new changes from server (someone might have updated files).
 
 `git pull`
+
+## Start working - local repository
+
+`git init` - create repository in current folder.
 
 
 ## Common Workflow
