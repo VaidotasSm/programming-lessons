@@ -10,5 +10,6 @@ Goals:
 
 * [Git](https://github.com/VaidotasSm/programming-lessons/tree/master/git)
 * [Node](https://github.com/VaidotasSm/programming-lessons/tree/master/node)
+* [JavaScript](https://github.com/VaidotasSm/programming-lessons/tree/master/javascript)
 
 
