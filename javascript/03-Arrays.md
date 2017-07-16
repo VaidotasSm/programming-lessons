@@ -39,6 +39,6 @@ array1.map((e, index) => e + 1);  // returns new array
 **Reduce (sum) elements**
 Useful when want to add/multiply/.. all elements.
 ```
-let zeroSum = 0;
-let sum = array.reduce((sum, e) => sum + e, zeroSum);
+let initialSum = 0;
+let sum = array.reduce((sum, e) => sum + e, initialSum);
 ```
